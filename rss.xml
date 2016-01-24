@@ -2,16 +2,18 @@
     <channel>
         <title><![CDATA[stuartmurray]]></title>
         <description><![CDATA[stuartmurray]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stuartmurray/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 19:10:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 19:25:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stuartmurray/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c890327e-d761-4380-be0a-92f268343ce8.png">]]></description>
-            <link>undefined3fa77567-d37b-43e1-a6f6-ce3674f53ea8/index.html</link>
+            <title><![CDATA[Stuart J. Murray]]></title>
+            <description><![CDATA[<article><h1>Stuart J. Murray</h1><p>Stuart J. Murray is Canada Research Chair in Rhetoric and Ethics in the Department of English Language and Literature and the Department of Health Sciences at Carleton University in Ottawa, Canada. He is Director of the Digital Rhetorics + Ethics Lab (DR+E), which supports research into communication ethics, embodiment, and the digital interface of language, text, and culture.
+
+In 2014 he was elected to the College of New Scholars, Artists and Scientists of the Royal Society of Canada.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fab9643b9ce8ed36a6c6a3063bc877caccf38e4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/stuartmurray/3fa77567-d37b-43e1-a6f6-ce3674f53ea8/index.html</link>
             <guid isPermaLink="false">3fa77567-d37b-43e1-a6f6-ce3674f53ea8</guid>
-            <pubDate>Sun, 24 Jan 2016 19:10:21 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 19:25:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
