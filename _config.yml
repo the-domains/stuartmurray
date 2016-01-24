@@ -1,7 +1,7 @@
 name: stuartmurray
 favicon: null
-layout_spectrum: 0.75
-typography_spectrum: 0.55198
+layout_spectrum: 0.79703
+typography_spectrum: 0.38861
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#6b7d51'
     - '#e8c3c0'
     - '#37a1ea'
-  brandStrength: 0.3125
-  lightness: 0.1875
+  brandStrength: 0.4375
+  lightness: 0.25
   saturation: 0.875
   rhythmicContrast: 0.25
 purpose: []
